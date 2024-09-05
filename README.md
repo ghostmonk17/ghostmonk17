@@ -195,7 +195,7 @@
 
 #
 
-![footer](WEBP/footer.webp)
+<!-- ![footer](WEBP/footer.webp)-->
 
 
 -----
