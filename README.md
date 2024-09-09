@@ -13,9 +13,9 @@
 
 - 🔭 I’m currently working on **Centralizing the Bail Application Process Online under Ministry of Law & Justice**
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Data Structure and Algorithms**
-- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **DevOps .**
+- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **DevOps & Web Development .**
 - 😄 𝙿𝚛𝚘ject : **Check My Repositories for My Project Code**
-- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **“Denial is the ultimate comfort zone”***
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **“The Magic you're looking for is in the work you're Avoiding”***
 
 <br/>
 <br/>
