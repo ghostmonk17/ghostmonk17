@@ -56,6 +56,12 @@
 <br/>
 
 #
+<!--- <br>
+  <summary><b>⚙️ GitHub Analytics</b></summary>
+<a href="https://github.com/ghostmonk017">
+   <img height="155em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="ghostmonk017 github stats" />
+    <img height="155em" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="ghostmonk017 github stats" />
+<br/> --->
 
 
 <details open="">
