@@ -136,13 +136,13 @@
 
 **🐱 My Github Data** 
 
-> 🏆 59 Contributions in the Year 2024
+> 🏆 80+ Contributions in the Year 2024
  > 
 > 📦 9.1 MB Used in Github's Storage 
  > 
 > 📜 5 Public Repositories 
  > 
-> 🔑 12 Private Repositories  
+> 🔑 8 Private Repositories  
  > 
 **I'm a Knight 🦉** 
 
