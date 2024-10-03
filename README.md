@@ -142,7 +142,7 @@
 
 **🐱 My Github Data** 
 
-> 🏆 80+ Contributions in the Year 2024
+> 🏆 100+ Contributions in the Year 2024
  > 
 > 📦 9.1 MB Used in Github's Storage 
  > 
