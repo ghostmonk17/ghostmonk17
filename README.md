@@ -24,19 +24,19 @@
 
 
 <p align="center">
-  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=ghostmonk017&style=flat&color=blue"> 
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/ghostmonk017?label=Followers&style=social"> 
+  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=ghostmonk17&style=flat&color=blue"> 
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/ghostmonk17?label=Followers&style=social"> 
 
 </p>
 
 
 #
 
-![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=ghostmonk017&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=ghostmonk17&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
 <p align="center">
 <!--   <img height="150" width="150" src="WEBP/left.webp"> -->
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghostmonk017&theme=dark&hide_border=true"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghostmonk17&theme=dark&hide_border=true"/>
 <!--   <img height="150" width="150" src="WEBP/right.webp"> -->
 </p>
 
@@ -58,9 +58,9 @@
 #
 <!--- <br>
   <summary><b>⚙️ GitHub Analytics</b></summary>
-<a href="https://github.com/ghostmonk017">
-   <img height="155em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="ghostmonk017 github stats" />
-    <img height="155em" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="ghostmonk017 github stats" />
+<a href="https://github.com/ghostmonk17">
+   <img height="155em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="ghostmonk17 github stats" />
+    <img height="155em" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="ghostmonk17 github stats" />
 <br/> --->
 
 
@@ -86,18 +86,18 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/ghostmonk017">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghostmonk017&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+  <a href="https://github.com/ghostmonk17">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghostmonk17&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
-  <a href="https://github.com/ghostmonk017">
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostmonk017&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  <a href="https://github.com/ghostmonk17">
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostmonk17&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>
 </details>
 <br>
 
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=ghostmonk017&theme=react-dark&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=ghostmonk17&theme=react-dark&hide_border=true&area=true)
 
 <h4 align="center">
   
@@ -219,7 +219,7 @@
 
 
 -----
-**Credits**: ghostmonk017
+**Credits**: ghostmonk17
 
 
 
